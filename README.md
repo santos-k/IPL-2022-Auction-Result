@@ -28,6 +28,7 @@ Data Analysis and Visualization of Tata IPL 2020 Sold Players in Auction
   
 # Visuals of Analysis
 
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/40932902/161590327-a0b482a7-f359-4edd-82e2-2b4abe4cd620.png">
 
 ![newplot (38)](https://user-images.githubusercontent.com/40932902/161263082-29e20211-4404-477e-971c-011e2e0933fd.png)
 ![newplot (39)](https://user-images.githubusercontent.com/40932902/161263084-cda739b4-d472-4a20-9838-a53e51438496.png)
